@@ -43,6 +43,11 @@ body {
   margin-top: 24px;
 }
 
+.tarjeta-de-mokepon:hover{
+  border: 5px solid gray;
+  cursor: pointer;
+}
+
 #boton-mascota {
   height: 40px;
   width: 175px;
